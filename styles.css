@@ -125,3 +125,13 @@ button:hover {
   max-width: 800px;
   margin: 0 auto;
 }
+
+.profile-photo,
+.profile-pic {
+  width: 150px;        
+  height: 150px;        
+  object-fit: cover;     
+  border-radius: 50%;    
+  border: 3px solid #0078d4;  
+  margin-bottom: 10px;
+}
