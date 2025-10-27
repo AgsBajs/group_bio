@@ -125,3 +125,43 @@ button:hover {
   max-width: 800px;
   margin: 0 auto;
 }
+
+<<<<<<< Updated upstream
+.profile-photo,
+.profile-pic {
+  width: 150px;        
+  height: 150px;        
+  object-fit: cover;     
+  border-radius: 50%;    
+  border: 3px solid #0078d4;  
+  margin-bottom: 10px; 
+}
+=======
+#vision h3 {
+  font-size: 1.6em;
+  font-weight: 700;
+  color: #0056b3;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.values-list {
+  list-style-type: none;
+  padding: 0;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.values-list li {
+  background: #f9f9f9;
+  margin: 8px 0;
+  padding: 12px 18px;
+  border-left: 5px solid #007BFF;
+  border-radius: 8px;
+  font-size: 1.05em;
+  line-height: 1.5;
+  color: #333;
+  transition: transform 0.2s ease;
+}
+>>>>>>> Stashed changes
